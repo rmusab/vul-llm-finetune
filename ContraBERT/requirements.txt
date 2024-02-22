@@ -1,0 +1,8 @@
+#apex==0.9.10dev
+torch==1.12.0
+ptvsd==4.3.2
+scikit_learn==1.0.2
+tensorboardX==2.6
+tqdm==4.64.1
+transformers==4.29.2
+click
