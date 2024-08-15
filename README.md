@@ -18,7 +18,7 @@ You can find the following folders in the root directory:
 Please, make sure to use the following BibTeX entry when citing our work:
 
 ```bibtex
-@misc{shestov2024finetuninglargelanguagemodels,
+@misc{Shestov2024-finetunellmsvuldet,
       title={Finetuning Large Language Models for Vulnerability Detection}, 
       author={Alexey Shestov and Rodion Levichev and Ravil Mussabayev and Evgeny Maslov and Anton Cheshkov and Pavel Zadorozhny},
       year={2024},
