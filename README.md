@@ -1,9 +1,9 @@
 # Finetuning Large Language Models for Vulnerability Detection
 
-[![arXiv](https://img.shields.io/badge/arXiv-2401.17010-B31B1B)](https://arxiv.org/abs/2401.17010)
+[![IEEE Access](https://img.shields.io/badge/IEEE%20Access-YourPaperID-blue?logo=ieee)](https://doi.org/10.1109/ACCESS.2025.3546700)
 
 This repository contains the necessary code for reproducing the experiments conducted in the paper "Finetuning Large Language Models for Vulnerability Detection":
-[https://arxiv.org/abs/2401.17010](https://arxiv.org/abs/2401.17010)
+[https://doi.org/10.1109/ACCESS.2025.3546700](https://doi.org/10.1109/ACCESS.2025.3546700)
 
 ## Folder structure
 
@@ -30,4 +30,3 @@ Please, make sure to use the following BibTeX entry when citing our work:
   doi={10.1109/ACCESS.2025.3546700}
 }
 ```
-
