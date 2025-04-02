@@ -18,7 +18,7 @@ You can find the following folders in the root directory:
 Please, make sure to use the following BibTeX entry when citing our work:
 
 ```bibtex
-@ARTICLE{10908394,
+@ARTICLE{Shestov2025,
   author={Shestov, Aleksei and Levichev, Rodion and Mussabayev, Ravil and Maslov, Evgeny and Zadorozhny, Pavel and Cheshkov, Anton and Mussabayev, Rustam and Toleu, Alymzhan and Tolegen, Gulmira and Krassovitskiy, Alexander},
   journal={IEEE Access}, 
   title={Finetuning Large Language Models for Vulnerability Detection}, 
