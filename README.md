@@ -18,13 +18,16 @@ You can find the following folders in the root directory:
 Please, make sure to use the following BibTeX entry when citing our work:
 
 ```bibtex
-@misc{Shestov2024-finetunellmsvuldet,
-      title={Finetuning Large Language Models for Vulnerability Detection}, 
-      author={Alexey Shestov and Rodion Levichev and Ravil Mussabayev and Evgeny Maslov and Anton Cheshkov and Pavel Zadorozhny},
-      year={2024},
-      eprint={2401.17010},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2401.17010}, 
+@ARTICLE{10908394,
+  author={Shestov, Aleksei and Levichev, Rodion and Mussabayev, Ravil and Maslov, Evgeny and Zadorozhny, Pavel and Cheshkov, Anton and Mussabayev, Rustam and Toleu, Alymzhan and Tolegen, Gulmira and Krassovitskiy, Alexander},
+  journal={IEEE Access}, 
+  title={Finetuning Large Language Models for Vulnerability Detection}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={38889-38900},
+  keywords={Training;Codes;Standards;Large language models;Predictive models;Limiting;Java;Entropy;Adaptation models;Reviews;Large language models;vulnerability detection;cybersecurity;finetuning;StarCoder;WizardCoder;PEFT;LoRA},
+  doi={10.1109/ACCESS.2025.3546700}
 }
 ```
+
